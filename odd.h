@@ -5,4 +5,5 @@ int odd(int array[], int len) {
             numberOdd++;
     }
     return numberOdd;
+    printf("a");
 }
