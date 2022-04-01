@@ -15,5 +15,8 @@ int main(){
     }
     printf("Insert elemnts: ");
     scanf("%d", &n);
+    printf("test");
+    
+
 
 }
