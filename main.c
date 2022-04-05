@@ -2,6 +2,7 @@
 #include "find.h"
 #include "odd.h"
 #include "max.h"
+#include "min.h"
 
 
 int main(){
@@ -33,4 +34,8 @@ int main(){
     //max test
     int maxTest = max(arrayTest, 10);
     printf("Max number is in position %d\n", maxTest);
+
+    //min test
+    int minTest = min(arrayTest, 10);
+    printf("Min number is in position %d\n", minTest);
 }
